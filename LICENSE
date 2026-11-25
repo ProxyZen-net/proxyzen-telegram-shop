@@ -1,0 +1,35 @@
+ProxyZen Telegram Shop License
+Copyright (c) 2026 ProxyZen (https://proxyzen.net). All rights reserved.
+
+1. Grant. You may download, install and run this software ("the Bot") free of charge,
+   and modify it for the purpose of operating your own shop, provided that the Bot
+   obtains proxies exclusively through the ProxyZen API (https://proxyzen.net/api/v1).
+
+2. Restrictions. You may NOT:
+   a) modify the Bot, or any part of it, to work with any proxy provider, API or
+      service other than ProxyZen;
+   b) distribute, sell, sublicense or publish the Bot or modified copies of it,
+      except by linking to the official download at https://proxyzen.net/bot/ or to the
+      official ProxyZen repository on GitHub;
+   c) remove or alter the "Powered by ProxyZen" notice, this license or the copyright notice.
+
+3. Termination. Any breach of section 2 terminates this license automatically.
+   ProxyZen may also revoke API access used by a Bot that breaches this license.
+
+4. No warranty. THE BOT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. ProxyZen is not
+   liable for any damages or losses arising from its use. You are responsible for your
+   own shop, your customers, payments and compliance with applicable laws and with the
+   ProxyZen Terms of Use (https://proxyzen.net/en/terms).
+
+---
+
+Лицензия ProxyZen Telegram Shop (перевод для удобства; приоритет — у английского текста)
+
+1. Разрешено бесплатно скачивать, устанавливать, запускать бота и изменять его для работы
+   своего магазина — при условии, что прокси покупаются только через API ProxyZen.
+2. Запрещено: переделывать бота под других поставщиков прокси или иные API; распространять,
+   продавать или публиковать бота и его изменённые копии (кроме ссылки на официальную
+   загрузку https://proxyzen.net/bot/); удалять пометку «Powered by ProxyZen», лицензию и копирайт.
+3. Нарушение п. 2 автоматически прекращает действие лицензии; ProxyZen может отключить доступ к API.
+4. Бот предоставляется «как есть», без гарантий. Ответственность за магазин, клиентов, платежи
+   и соблюдение законов и Условий ProxyZen несёт владелец магазина.
